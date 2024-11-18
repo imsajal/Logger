@@ -1,0 +1,6 @@
+
+- This design pattern is applied in logger, vending machine and atm
+
+- All the receiver objects connects with chain and request id propogated until fullfilled
+
+- There is handler abstract class and some concrete handler
